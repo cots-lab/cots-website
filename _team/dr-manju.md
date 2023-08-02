@@ -1,9 +1,9 @@
 ---
-title: "Peter Van Eijk"
+title: "Dr Manjusri Wickramasinghe"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+image: "images/team/dr-manju.jpg"
+jobtitle: "Senior Lecturer"
+linkedinurl: "https://www.linkedin.com/in/manjusri-wickramasinghe-9180379b/"
 promoted: true
 weight: 1
 ---
