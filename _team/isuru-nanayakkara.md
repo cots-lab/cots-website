@@ -1,9 +1,10 @@
 ---
-title: "Robert Johnson"
-date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
-linkedinurl: "https://www.linkedin.com/"
+title: "Isuru Nanayakkara"
+date: 2018-11-19T10:47:58+10:00
+image: "images/team/isuru-nanayakkara.jpg"
+jobtitle: "Lecturer"
+linkedinurl: "https://www.linkedin.com/in/nhpim/"
+promoted: true
 weight: 3
 ---
 

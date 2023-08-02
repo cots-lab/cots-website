@@ -1,8 +1,10 @@
 ---
-title: "Tamara Ells"
-date: 2018-12-20T13:44:55+10:00
-image: "images/team/michael-dam-258165-unsplash.jpg"
-jobtitle: "UI Designer"
+title: "Roshan Abeyweera"
+date: 2018-11-19T10:47:58+10:00
+image: "images/team/roshan-abeyweera.jfif"
+jobtitle: "Lecturer"
+linkedinurl: "https://www.linkedin.com/in/roshan-nadeesha/"
+promoted: true
 weight: 4
 ---
 
